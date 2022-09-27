@@ -15042,7 +15042,7 @@ class User
       throw new Exception(__("You already invited this email before"));
     }
     /* prepare invitation email */
-    $subject = $this->_data['name'] . " " . __("Invite you to join") . " " . __($system['system_title']);
+    $subject = $this->_data['name'] . " " . __("send invitation to join") . " " . __($system['system_title']);
     $body = get_email_template("invitation_user_email", $subject, ["code" => $code]);
     /* send email */
     if (!_email($email, $subject, $body['html'], $body['plain'])) {
