@@ -7,6 +7,7 @@
  * @author Zamblek
  */
 
+
 // fetch bootstrap
 require('bootstrap.php');
 
