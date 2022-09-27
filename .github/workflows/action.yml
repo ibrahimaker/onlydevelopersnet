@@ -19,3 +19,4 @@ jobs:
         ftp-password: ${{ secrets.FTP_PASSWORD }}
         local_dir: "./public_html"
         delete: "false"
+        
