@@ -8706,7 +8706,7 @@ msgstr "Sadece Ben"
 #: content/themes/default/templates/settings.tpl:1411
 #: content/themes/default/templates/settings.tpl:1431
 msgid "Who can see your"
-msgstr ""
+msgstr " "
 
 #: content/themes/default/templates/admin.users.tpl:830
 #: content/themes/default/templates/settings.tpl:1183
