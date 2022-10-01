@@ -9200,7 +9200,7 @@ msgstr ""
 #: content/themes/default/templates/_publisher.tpl:408
 #, fuzzy
 msgid "Post"
-msgstr "Paylaşım"
+msgstr "Paylaş"
 
 #: content/themes/default/templates/ajax.album.edit_title.tpl:2
 #: content/themes/default/templates/_album.tpl:5
