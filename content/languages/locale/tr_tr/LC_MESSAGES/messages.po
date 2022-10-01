@@ -9341,18 +9341,18 @@ msgstr ""
 #: content/themes/default/templates/page.tpl:686
 #: content/themes/default/templates/settings.tpl:370
 msgid "Can only contain alphanumeric characters (A–Z, 0–9) and periods ('.')"
-msgstr ""
+msgstr "Sadece (A-Z, 0-9) karakterlerini ve (.) işaretini kullanabilirsiniz"
 
 #: content/themes/default/templates/ajax.invitations.tpl:3
 msgid "Share Invitation Code"
-msgstr ""
+msgstr "Davet kodunu paylaş"
 
 #: content/themes/default/templates/ajax.invitations.tpl:13
 msgid "Your invitation code is"
-msgstr ""
+msgstr "Davet Kodun"
 
 #: content/themes/default/templates/ajax.invitations.tpl:23
-msgid "Share the code to"
+msgid "Davet kodunu paylaş"
 msgstr ""
 
 #: content/themes/default/templates/ajax.invitations.tpl:101
@@ -12350,27 +12350,27 @@ msgstr ""
 
 #: content/themes/default/templates/_js_templates.tpl:961
 msgid "Good Morning"
-msgstr ""
+msgstr "Günaydın"
 
 #: content/themes/default/templates/_js_templates.tpl:962
 msgid "Write it on your heart that every day is the best day in the year"
-msgstr ""
+msgstr "Güzelliklerle dolu mutlu, huzurlu bir gün geçirmen dileğiyle."
 
 #: content/themes/default/templates/_js_templates.tpl:972
 msgid "Good Afternoon"
-msgstr ""
+msgstr "İyi Akşamlar"
 
 #: content/themes/default/templates/_js_templates.tpl:973
 msgid "May Your Good Afternoon Be Light, Blessed, Productive And Happy"
-msgstr ""
+msgstr "Her başarısız denemeyle başarıya bir adım daha yakınlaşıyorsunuz, haydi tekrar dene!"
 
 #: content/themes/default/templates/_js_templates.tpl:983
 msgid "Good Evening"
-msgstr ""
+msgstr "İyi Geceler"
 
 #: content/themes/default/templates/_js_templates.tpl:984
 msgid "We hope you are enjoying your evening"
-msgstr ""
+msgstr "Birisinin sana, bir şey yapamayacağını söylemesine izin verme."
 
 #: content/themes/default/templates/_js_templates.tpl:1028
 msgid "sent you a gift"
