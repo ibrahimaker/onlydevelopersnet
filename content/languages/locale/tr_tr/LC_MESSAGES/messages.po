@@ -1247,7 +1247,7 @@ msgstr ""
 #: index.php:170 content/themes/default/templates/index.tpl:132
 #: content/themes/default/templates/_sidebar.tpl:122
 msgid "Saved Posts"
-msgstr "Kayıtlı Mesajlar"
+msgstr "Kayıtlı Paylaşımlar"
 
 #: index.php:180 content/themes/default/templates/admin.settings.tpl:984
 #: content/themes/default/templates/index.tpl:141
@@ -13239,7 +13239,7 @@ msgstr "pinned Mesaj"
 #: content/themes/default/templates/_posts.tpl:3
 #: content/themes/default/templates/_sidebar.tpl:67
 msgid "Recent Updates"
-msgstr "Son Paylaşımlar"
+msgstr "Güncel"
 
 #: content/themes/default/templates/_posts.tpl:13
 msgid "Links"
@@ -13328,7 +13328,7 @@ msgstr "Favorilerim"
 #: content/themes/default/templates/_sidebar.tpl:55
 #: content/themes/default/templates/_sidebar.tpl:60
 msgid "News Feed"
-msgstr "Yeni Paylaşımlar"
+msgstr "Paylaşımlar"
 
 #: content/themes/default/templates/_sidebar.tpl:113
 msgid "My Funding"
