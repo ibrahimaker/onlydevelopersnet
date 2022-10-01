@@ -3582,7 +3582,7 @@ msgstr ""
 #: content/themes/default/templates/__feeds_post_live.tpl:91
 #: content/themes/default/templates/__feeds_post_photo.tpl:109
 msgid "Comments"
-msgstr "Yorumlar"
+msgstr "Yorum"
 
 #: content/themes/default/templates/admin.dashboard.tpl:71
 msgid "Manage Reports"
@@ -3598,7 +3598,7 @@ msgstr "Grupları Yönet"
 
 #: content/themes/default/templates/admin.dashboard.tpl:103
 msgid "Manage Events"
-msgstr ""
+msgstr "Etkinlikleri Yönet"
 
 #: content/themes/default/templates/admin.design.tpl:12
 msgid "Night Mode is Default"
@@ -9041,7 +9041,7 @@ msgstr ""
 #: content/themes/default/templates/_sidebar.tpl:194
 #, fuzzy
 msgid "People"
-msgstr "kişiler"
+msgstr "Kişiler"
 
 #: content/themes/default/templates/ads.tpl:281
 #: content/themes/default/templates/ads.tpl:533
@@ -9959,7 +9959,7 @@ msgstr ""
 #: content/themes/default/templates/__feeds_post_live.tpl:143
 #: content/themes/default/templates/__feeds_post_photo.tpl:161
 msgid "Comment"
-msgstr "Mesajınız"
+msgstr "Yorumlar"
 
 #: content/themes/default/templates/blogs.tpl:379
 #: content/themes/default/templates/__feeds_post.tpl:191
@@ -10521,7 +10521,7 @@ msgstr ""
 #: content/themes/default/templates/forums.tpl:552
 #: content/themes/default/templates/__feeds_comment.tpl:90
 msgid "Reply"
-msgstr ""
+msgstr "Cevapla"
 
 #: content/themes/default/templates/forums.tpl:616
 #: content/themes/default/templates/forums.tpl:662
