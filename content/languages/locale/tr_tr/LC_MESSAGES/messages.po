@@ -8629,7 +8629,7 @@ msgstr ""
 #: content/themes/default/templates/admin.users.tpl:765
 #: content/themes/default/templates/settings.tpl:1118
 msgid "Who can poke you"
-msgstr ""
+msgstr "Seni kimler dürtebilir"
 
 #: content/themes/default/templates/admin.users.tpl:778
 #: content/themes/default/templates/admin.users.tpl:800
@@ -8640,7 +8640,7 @@ msgstr ""
 
 #: content/themes/default/templates/admin.users.tpl:787
 #: content/themes/default/templates/settings.tpl:1140
-msgid "Who can send you gifts"
+msgid "Sana kimler hediye gönderebilir"
 msgstr ""
 
 #: content/themes/default/templates/admin.users.tpl:809
@@ -8706,57 +8706,60 @@ msgstr "Sadece Ben"
 #: content/themes/default/templates/settings.tpl:1411
 #: content/themes/default/templates/settings.tpl:1431
 msgid "Who can see your"
-msgstr "Kim-ebilmek görmek senin"
+msgstr ""
 
 #: content/themes/default/templates/admin.users.tpl:830
 #: content/themes/default/templates/settings.tpl:1183
 #, fuzzy
 #| msgid "Gender"
 msgid "gender"
-msgstr "Cinsiyet"
+msgstr "Cinsiyetini kimler görebilir"
 
 #: content/themes/default/templates/admin.users.tpl:851
 #: content/themes/default/templates/settings.tpl:1204
 msgid "relationship"
-msgstr ""
+msgstr "İlişki durumunu kimler görebilir"
 
 #: content/themes/default/templates/admin.users.tpl:872
 #: content/themes/default/templates/settings.tpl:1225
 msgid "birthdate"
-msgstr "Doğum günü:"
+msgstr "Doğum gününü kimler görebilir"
 
 #: content/themes/default/templates/admin.users.tpl:892
 #: content/themes/default/templates/settings.tpl:1245
 msgid "basic info"
-msgstr ""
+msgstr "Temel bilgilerini kimler görebilir"
 
 #: content/themes/default/templates/admin.users.tpl:913
 #: content/themes/default/templates/settings.tpl:1266
-msgid "work info"
+msgid "İş bilgilerini kimler görebilir"
 msgstr ""
 
 #: content/themes/default/templates/admin.users.tpl:935
 #: content/themes/default/templates/settings.tpl:1288
-msgid "location info"
+msgid "Konum bilgilerini kimler görebilir"
 msgstr ""
 
 #: content/themes/default/templates/admin.users.tpl:957
 #: content/themes/default/templates/settings.tpl:1310
-msgid "education info"
+msgid "Eğitim bilgilerini kimler görebilir"
 msgstr ""
 
 #: content/themes/default/templates/admin.users.tpl:978
 #: content/themes/default/templates/settings.tpl:1331
-msgid "other info"
+msgid "Diğer bilgilerini kimler görebilir"
 msgstr ""
 
 #: content/themes/default/templates/admin.users.tpl:998
 #: content/themes/default/templates/settings.tpl:1351
 msgid "friends"
-msgstr "arkadaşlar"
+msgstr "Arkadaşlarını kimler görebilir"
 
 #: content/themes/default/templates/admin.users.tpl:1018
 #: content/themes/default/templates/settings.tpl:1371
+msgid "photos"
+msgstr "Fotoğraflarını kimler görebilir"
+
 #: content/themes/default/templates/__feeds_album.tpl:11
 #: content/themes/default/templates/__feeds_post.body.tpl:277
 #: content/themes/default/templates/__feeds_post.body.tpl:314
@@ -8766,17 +8769,17 @@ msgstr "Fotograf"
 
 #: content/themes/default/templates/admin.users.tpl:1038
 #: content/themes/default/templates/settings.tpl:1391
-msgid "liked pages"
+msgid "Beğendiğin sayfaları kimler görebilir"
 msgstr ""
 
 #: content/themes/default/templates/admin.users.tpl:1058
 #: content/themes/default/templates/settings.tpl:1411
-msgid "joined groups"
+msgid "Katıldığın grupları kimler görebilir"
 msgstr ""
 
 #: content/themes/default/templates/admin.users.tpl:1078
 #: content/themes/default/templates/settings.tpl:1431
-msgid "joined events"
+msgid "Katıldığın etkinlikleri kimler görebilir"
 msgstr ""
 
 #: content/themes/default/templates/admin.users.tpl:1120
@@ -11869,11 +11872,11 @@ msgstr "Hoşgeldiniz"
 
 #: content/themes/default/templates/signup_social.tpl:38
 msgid "First name"
-msgstr ""
+msgstr "Ad"
 
 #: content/themes/default/templates/signup_social.tpl:47
 msgid "Last name"
-msgstr ""
+msgstr "Soyad"
 
 #: content/themes/default/templates/signup_social.tpl:103
 #: content/themes/default/templates/_sign_form.tpl:237
