@@ -6349,7 +6349,7 @@ msgstr "Sohbet"
 #: content/themes/default/templates/admin.users.tpl:734
 #: content/themes/default/templates/settings.tpl:1087
 msgid "Chat Enabled"
-msgstr "Etkin sohbet"
+msgstr "Mesajlaşma"
 
 #: content/themes/default/templates/admin.settings.tpl:3023
 msgid "Turn the chat system On and Off"
@@ -8614,17 +8614,17 @@ msgstr ""
 #: content/themes/default/templates/settings.tpl:1088
 msgid ""
 "If chat disabled you will appear offline and will no see who is online too"
-msgstr ""
+msgstr "Kapatmanız durumunda online görünmezsiniz, online olanları da göremezsiniz."
 
 #: content/themes/default/templates/admin.users.tpl:751
 #: content/themes/default/templates/settings.tpl:1104
 msgid "Email you with our newsletter"
-msgstr ""
+msgstr "Bülten Aboneliği"
 
 #: content/themes/default/templates/admin.users.tpl:752
 #: content/themes/default/templates/settings.tpl:1105
 msgid "From time to time we send newsletter email to all of our members"
-msgstr ""
+msgstr "Bütün abonelere gönderdiğimiz son dakika gelişmelerini al."
 
 #: content/themes/default/templates/admin.users.tpl:765
 #: content/themes/default/templates/settings.tpl:1118
