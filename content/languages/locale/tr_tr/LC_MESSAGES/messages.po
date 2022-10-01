@@ -9200,7 +9200,7 @@ msgstr ""
 #: content/themes/default/templates/_publisher.tpl:408
 #, fuzzy
 msgid "Post"
-msgstr "yazı"
+msgstr "Paylaşım"
 
 #: content/themes/default/templates/ajax.album.edit_title.tpl:2
 #: content/themes/default/templates/_album.tpl:5
@@ -13011,7 +13011,7 @@ msgstr "Neler oluyor? #Hashtag... @Mention... Bağlantı..."
 
 #: content/themes/default/templates/_js_translator.tpl:124
 msgid "Write a comment"
-msgstr "Yazı yaz"
+msgstr "Yorum yap"
 
 #: content/themes/default/templates/_js_translator.tpl:125
 msgid "Shared with: Public"
@@ -13035,7 +13035,7 @@ msgstr ""
 
 #: content/themes/default/templates/_js_translator.tpl:130
 msgid "Write a message"
-msgstr "Yazı yaz"
+msgstr "Mesaj yaz"
 
 #: content/themes/default/templates/_js_translator.tpl:131
 msgid "Pro User"
@@ -13444,11 +13444,11 @@ msgstr ""
 
 #: content/themes/default/templates/__feeds_post.body.tpl:59
 msgid "Unsave Post"
-msgstr "kaydetme seçeneğini Mesaj"
+msgstr "Paylaşımı Kaydetme"
 
 #: content/themes/default/templates/__feeds_post.body.tpl:65
 msgid "Save Post"
-msgstr "Yazıyı kaydet"
+msgstr "Paylaşımı kaydet"
 
 #: content/themes/default/templates/__feeds_post.body.tpl:76
 msgid "Unboost Post"
@@ -13473,11 +13473,11 @@ msgstr ""
 
 #: content/themes/default/templates/__feeds_post.body.tpl:149
 msgid "Edit Post"
-msgstr "Yayını Düzenle"
+msgstr "Paylaşımı Düzenle"
 
 #: content/themes/default/templates/__feeds_post.body.tpl:157
 msgid "Delete Post"
-msgstr "Yazıyı sil"
+msgstr "Paylaşımı Sil"
 
 #: content/themes/default/templates/__feeds_post.body.tpl:166
 msgid "Allow on Timeline"
