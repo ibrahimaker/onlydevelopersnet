@@ -1222,13 +1222,13 @@ msgstr "Hoşgeldiniz"
 #: content/themes/default/templates/index.tpl:122
 #: content/themes/default/templates/_sidebar.tpl:74
 msgid "Popular Posts"
-msgstr ""
+msgstr "Popüler"
 
 #: index.php:100 content/themes/default/templates/admin.settings.tpl:963
 #: content/themes/default/templates/index.tpl:127
 #: content/themes/default/templates/_sidebar.tpl:82
 msgid "Discover Posts"
-msgstr ""
+msgstr "Keşfet"
 
 #: index.php:120 content/themes/default/templates/index.tpl:153
 #: content/themes/default/templates/_sidebar.tpl:95
@@ -13239,7 +13239,7 @@ msgstr "pinned Mesaj"
 #: content/themes/default/templates/_posts.tpl:3
 #: content/themes/default/templates/_sidebar.tpl:67
 msgid "Recent Updates"
-msgstr "Son Güncellemeler"
+msgstr "Son Paylaşımlar"
 
 #: content/themes/default/templates/_posts.tpl:13
 msgid "Links"
@@ -13328,7 +13328,7 @@ msgstr "Favorilerim"
 #: content/themes/default/templates/_sidebar.tpl:55
 #: content/themes/default/templates/_sidebar.tpl:60
 msgid "News Feed"
-msgstr "Web sayfası bildirimcisi"
+msgstr "Yeni Paylaşımlar"
 
 #: content/themes/default/templates/_sidebar.tpl:113
 msgid "My Funding"
