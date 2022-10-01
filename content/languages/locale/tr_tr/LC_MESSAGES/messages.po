@@ -8732,23 +8732,23 @@ msgstr "Temel bilgilerini kimler görebilir"
 
 #: content/themes/default/templates/admin.users.tpl:913
 #: content/themes/default/templates/settings.tpl:1266
-msgid "İş bilgilerini kimler görebilir"
-msgstr ""
+msgid "work info"
+msgstr "İş bilgilerini kimler görebilir"
 
 #: content/themes/default/templates/admin.users.tpl:935
 #: content/themes/default/templates/settings.tpl:1288
-msgid "Konum bilgilerini kimler görebilir"
-msgstr ""
+msgid "location info"
+msgstr "Konum bilgilerini kimler görebilir"
 
 #: content/themes/default/templates/admin.users.tpl:957
 #: content/themes/default/templates/settings.tpl:1310
-msgid "Eğitim bilgilerini kimler görebilir"
-msgstr ""
+msgid "education info"
+msgstr "Eğitim bilgilerini kimler görebilir"
 
 #: content/themes/default/templates/admin.users.tpl:978
 #: content/themes/default/templates/settings.tpl:1331
-msgid "Diğer bilgilerini kimler görebilir"
-msgstr ""
+msgid "other info"
+msgstr "Diğer bilgileri kimler görebilir"
 
 #: content/themes/default/templates/admin.users.tpl:998
 #: content/themes/default/templates/settings.tpl:1351
@@ -8765,22 +8765,22 @@ msgstr "Fotoğraflarını kimler görebilir"
 #: content/themes/default/templates/__feeds_post.body.tpl:314
 #, fuzzy
 msgid "photos"
-msgstr "Fotograf"
+msgstr "fotoğraflar"
 
 #: content/themes/default/templates/admin.users.tpl:1038
 #: content/themes/default/templates/settings.tpl:1391
-msgid "Beğendiğin sayfaları kimler görebilir"
-msgstr ""
+msgid "liked pages"
+msgstr "Beğendiğin sayfaları kimler görebilir"
 
 #: content/themes/default/templates/admin.users.tpl:1058
 #: content/themes/default/templates/settings.tpl:1411
-msgid "Katıldığın grupları kimler görebilir"
-msgstr ""
+msgid "joined groups"
+msgstr "Katıldığın grupları kimler görebilir"
 
 #: content/themes/default/templates/admin.users.tpl:1078
 #: content/themes/default/templates/settings.tpl:1431
-msgid "Katıldığın etkinlikleri kimler görebilir"
-msgstr ""
+msgid "joined events"
+msgstr "Katıldığın etkinlikleri kimler görebilir"
 
 #: content/themes/default/templates/admin.users.tpl:1120
 #: content/themes/default/templates/information.tpl:136
