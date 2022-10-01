@@ -13007,7 +13007,7 @@ msgstr "İnsanlar, sayfaları ve #hashtags için arama"
 
 #: content/themes/default/templates/_js_translator.tpl:123
 msgid "What is on your mind? #Hashtag.. @Mention.. Link.."
-msgstr "Senin aklında ne var? #Hashtag... @Mention... Bağlantı..."
+msgstr "Neler oluyor? #Hashtag... @Mention... Bağlantı..."
 
 #: content/themes/default/templates/_js_translator.tpl:124
 msgid "Write a comment"
@@ -13265,7 +13265,7 @@ msgstr ""
 #, fuzzy
 #| msgid "Posts"
 msgid "New Posts"
-msgstr "Yazı"
+msgstr "Paylaş"
 
 #: content/themes/default/templates/_publisher.tpl:168
 msgid "Video uploaded successfully"
