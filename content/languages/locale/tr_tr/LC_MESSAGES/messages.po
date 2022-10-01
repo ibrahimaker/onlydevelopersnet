@@ -10629,12 +10629,12 @@ msgstr ""
 
 #: content/themes/default/templates/groups.tpl:28
 msgid "My Groups"
-msgstr ""
+msgstr "Topluluklarım"
 
 #: content/themes/default/templates/groups.tpl:35
 #: content/themes/default/templates/_header.tpl:170
 msgid "Create Group"
-msgstr "Grup oluştur"
+msgstr "Topluluk oluştur"
 
 #: content/themes/default/templates/index.tpl:142
 msgid "Enjoy looking back on your memories"
@@ -10701,43 +10701,43 @@ msgstr "Önerilen sayfalar"
 
 #: content/themes/default/templates/index.tpl:370
 msgid "Suggested Groups"
-msgstr "Önerilen gruplar"
+msgstr "Önerilen Topluluklar"
 
 #: content/themes/default/templates/index.tpl:390
 msgid "Suggested Events"
-msgstr ""
+msgstr "Önerilen Etkinlikler"
 
 #: content/themes/default/templates/index.tpl:410
 msgid "Invite Your Friends"
-msgstr ""
+msgstr "Arkadaşlarını davet et"
 
 #: content/themes/default/templates/information.tpl:11
 msgid "My Information"
-msgstr ""
+msgstr "Bilgilerim"
 
 #: content/themes/default/templates/information.tpl:93
 msgid "User Name"
-msgstr ""
+msgstr "Kullanıcı Adı"
 
 #: content/themes/default/templates/information.tpl:97
 msgid "User First Name"
-msgstr ""
+msgstr "Ad"
 
 #: content/themes/default/templates/information.tpl:101
 msgid "User Last Name"
-msgstr ""
+msgstr "Soyad"
 
 #: content/themes/default/templates/information.tpl:105
 msgid "User Email"
-msgstr ""
+msgstr "Email"
 
 #: content/themes/default/templates/information.tpl:109
 msgid "User Phone"
-msgstr ""
+msgstr "Telefon"
 
 #: content/themes/default/templates/information.tpl:113
 msgid "User Gender"
-msgstr ""
+msgstr "Cinsiyet"
 
 #: content/themes/default/templates/information.tpl:128
 msgid "Your Sessions"
@@ -10750,31 +10750,31 @@ msgstr ""
 
 #: content/themes/default/templates/information.tpl:171
 msgid "Your Friends"
-msgstr ""
+msgstr "Arkadaşların"
 
 #: content/themes/default/templates/information.tpl:190
 msgid "Your Followings"
-msgstr ""
+msgstr "Takip Ettiklerin"
 
 #: content/themes/default/templates/information.tpl:209
 msgid "Your Followers"
-msgstr ""
+msgstr "Takipçilerin"
 
 #: content/themes/default/templates/information.tpl:228
 msgid "Your Likes"
-msgstr ""
+msgstr "Beğenilerin"
 
 #: content/themes/default/templates/information.tpl:247
 msgid "Your groups"
-msgstr ""
+msgstr "Toplulukların"
 
 #: content/themes/default/templates/information.tpl:266
 msgid "Your events"
-msgstr ""
+msgstr "Etkinliklerin"
 
 #: content/themes/default/templates/information.tpl:285
 msgid "Your posts"
-msgstr ""
+msgstr "Paylaşımların"
 
 #: content/themes/default/templates/jobs.tpl:82
 #: content/themes/default/templates/market.tpl:92
