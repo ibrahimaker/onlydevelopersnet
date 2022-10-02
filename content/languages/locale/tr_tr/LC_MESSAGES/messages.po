@@ -1318,7 +1318,7 @@ msgstr "Sayfalarınızı"
 
 #: people.php:22
 msgid "Discover People"
-msgstr ""
+msgstr "Keşfet"
 
 #: people.php:30
 msgid "Find People"
@@ -10456,16 +10456,16 @@ msgstr ""
 #: content/themes/default/templates/pages.tpl:21
 #: content/themes/default/templates/people.tpl:21
 msgid "Discover"
-msgstr ""
+msgstr "Keşfet"
 
 #: content/themes/default/templates/events.tpl:34
 msgid "My Events"
-msgstr ""
+msgstr "Etkinliklerim"
 
 #: content/themes/default/templates/events.tpl:41
 #: content/themes/default/templates/_header.tpl:175
 msgid "Create Event"
-msgstr ""
+msgstr "Etkinlik Oluştur"
 
 #: content/themes/default/templates/forums.tpl:32
 #: content/themes/default/templates/forums.tpl:151
@@ -10479,7 +10479,7 @@ msgstr ""
 #: content/themes/default/templates/forums.tpl:697
 #: content/themes/default/templates/forums.tpl:768
 msgid "Home"
-msgstr ""
+msgstr "Dashboard"
 
 #: content/themes/default/templates/forums.tpl:85
 #: content/themes/default/templates/forums.tpl:187
