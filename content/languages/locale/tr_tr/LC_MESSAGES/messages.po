@@ -3997,7 +3997,7 @@ msgstr "Hakkında"
 #: content/themes/default/templates/event.tpl:724
 #: content/themes/default/templates/group.tpl:750
 msgid "Members Can Publish Posts?"
-msgstr ""
+msgstr "Üyeler paylaşım yapabilir mi?"
 
 #: content/themes/default/templates/admin.events.tpl:304
 #: content/themes/default/templates/event.tpl:725
@@ -7787,7 +7787,7 @@ msgstr "Kategori"
 #: content/themes/default/templates/developers.tpl:391
 #: content/themes/default/templates/page.tpl:692
 msgid "Select Category"
-msgstr ""
+msgstr "Kategori Seç"
 
 #: content/themes/default/templates/admin.tools.tpl:213
 #, fuzzy
