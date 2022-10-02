@@ -3954,7 +3954,7 @@ msgstr "Konum (Adres)"
 #: content/themes/default/templates/event.tpl:692
 #: content/themes/default/templates/group.tpl:715
 msgid "Select Privacy"
-msgstr "Gizlilik Seviyesi Seç"
+msgstr "Gizlilik Seviyesi"
 
 #: content/themes/default/templates/admin.events.tpl:273
 #: content/themes/default/templates/admin.groups.tpl:232
@@ -3990,7 +3990,7 @@ msgstr "Kategori"
 #: content/themes/default/templates/group.tpl:737
 #: content/themes/default/templates/page.tpl:767
 msgid "About"
-msgstr ""
+msgstr "Hakkında"
 
 #: content/themes/default/templates/admin.events.tpl:303
 #: content/themes/default/templates/admin.groups.tpl:262
