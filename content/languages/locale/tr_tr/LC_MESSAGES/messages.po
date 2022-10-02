@@ -478,7 +478,7 @@ msgstr "Yeni Kategori Ekle"
 #: content/themes/default/templates/settings.tpl:2994
 #: content/themes/default/templates/_sidebar.tpl:212
 msgid "Groups"
-msgstr "Gruplar"
+msgstr "Topluluklar"
 
 #: admin.php:1099 admin.php:1125 admin.php:1172 admin.php:1177 admin.php:1205
 #: admin.php:1210 content/themes/default/templates/admin.dashboard.tpl:102
@@ -494,7 +494,7 @@ msgstr "Gruplar"
 #: content/themes/default/templates/settings.tpl:3003
 #: content/themes/default/templates/_sidebar.tpl:221
 msgid "Events"
-msgstr ""
+msgstr "Etkinlikler"
 
 #: admin.php:1230 admin.php:1259 admin.php:1288 admin.php:1316 admin.php:1321
 #: blogs.php:29 blogs.php:47
@@ -1042,7 +1042,7 @@ msgstr ""
 #: content/themes/default/templates/index.tpl:449
 #: content/themes/default/templates/_footer.links.tpl:33
 msgid "Contact Us"
-msgstr ""
+msgstr "İletişim"
 
 #: developers.php:47 content/themes/default/templates/developers.tpl:43
 #: content/themes/default/templates/developers.tpl:195
@@ -1105,23 +1105,23 @@ msgstr "Uygulanamaz"
 
 #: events.php:29
 msgid "Discover Events"
-msgstr ""
+msgstr "Etkinlikleri Keşfet"
 
 #: events.php:43
 msgid "Going Events"
-msgstr ""
+msgstr "Gidilecek Etkinlikler"
 
 #: events.php:57
 msgid "Interested Events"
-msgstr ""
+msgstr "İlgini Çeken Etkinlikler"
 
 #: events.php:71
 msgid "Invited Events"
-msgstr ""
+msgstr "Davet edildiğin Etkinlikler"
 
 #: events.php:85
 msgid "Your Events"
-msgstr ""
+msgstr "Etkinliklerin"
 
 #: forums.php:98 content/themes/default/templates/forums.tpl:166
 #: content/themes/default/templates/forums.tpl:423
@@ -1202,16 +1202,16 @@ msgstr ""
 
 #: groups.php:29
 msgid "Discover Groups"
-msgstr ""
+msgstr "Toplulukları Keşfet"
 
 #: groups.php:43 content/themes/default/templates/groups.tpl:25
 #, fuzzy
 msgid "Joined Groups"
-msgstr "birleştirilmiş grupların"
+msgstr "Katıldığın Topluluklar"
 
 #: groups.php:57
 msgid "Your Groups"
-msgstr "Gruplarınızı"
+msgstr "Toplulukların"
 
 #: index.php:19 content/themes/default/templates/index.tpl:10
 #: content/themes/default/templates/_js_translator.tpl:178
@@ -1815,7 +1815,7 @@ msgstr "Değişiklikleri Kaydet"
 #: content/themes/default/templates/__feeds_group.tpl:20
 #: content/themes/default/templates/__feeds_group.tpl:44
 msgid "Pending"
-msgstr ""
+msgstr "Bekliyor"
 
 #: content/themes/default/templates/admin.ads.tpl:113
 #: content/themes/default/templates/settings.tpl:2157
@@ -1824,7 +1824,7 @@ msgstr ""
 #: content/themes/default/templates/settings.tpl:2722
 #: content/themes/default/templates/wallet.tpl:342
 msgid "Approved"
-msgstr ""
+msgstr "Onaylandı"
 
 #: content/themes/default/templates/admin.ads.tpl:131
 #: content/themes/default/templates/admin.ads.tpl:181
@@ -2017,7 +2017,7 @@ msgstr ""
 #: content/themes/default/templates/settings.tpl:947
 #: content/themes/default/templates/settings.tpl:1876
 msgid "Actions"
-msgstr "Atif"
+msgstr "Aktif"
 
 #: content/themes/default/templates/admin.ads.tpl:185
 #: content/themes/default/templates/ads.tpl:64
@@ -2104,7 +2104,7 @@ msgstr ""
 #: content/themes/default/templates/admin.widgets.tpl:44
 #, fuzzy
 msgid "Notifications  Page"
-msgstr "Bildirimleri sayfa"
+msgstr "Bildirim Sayfası"
 
 #: content/themes/default/templates/admin.ads.tpl:280
 #: content/themes/default/templates/admin.widgets.tpl:45
@@ -2116,7 +2116,7 @@ msgstr "Tekli Mesaj Sayfası SEO"
 #: content/themes/default/templates/admin.widgets.tpl:46
 #, fuzzy
 msgid "Photo  Page"
-msgstr "Fotoğraf sayfası"
+msgstr "Fotoğraf Sayfası"
 
 #: content/themes/default/templates/admin.ads.tpl:282
 #: content/themes/default/templates/admin.widgets.tpl:48
@@ -2211,7 +2211,7 @@ msgstr ""
 #: content/themes/default/templates/developers.tpl:344
 #: content/themes/default/templates/games.tpl:28
 msgid "Go Back"
-msgstr ""
+msgstr "Geri Git"
 
 #: content/themes/default/templates/admin.ads.tpl:394
 #: content/themes/default/templates/admin.ads.tpl:498
@@ -9041,7 +9041,7 @@ msgstr ""
 #: content/themes/default/templates/_sidebar.tpl:194
 #, fuzzy
 msgid "People"
-msgstr "Kişiler"
+msgstr "Kişi"
 
 #: content/themes/default/templates/ads.tpl:281
 #: content/themes/default/templates/ads.tpl:533
@@ -10693,7 +10693,7 @@ msgstr ""
 
 #: content/themes/default/templates/index.tpl:330
 msgid "Friend Suggestions"
-msgstr ""
+msgstr "Kimi takip etmeli"
 
 #: content/themes/default/templates/index.tpl:350
 msgid "Suggested Pages"
@@ -11179,7 +11179,7 @@ msgstr ""
 #: content/themes/default/templates/people.tpl:135
 #, fuzzy
 msgid "People You May Know"
-msgstr "Bildiğiniz insanlar"
+msgstr "Tanıyor olabileceğiniz kişiler"
 
 #: content/themes/default/templates/people.tpl:173
 msgid "No people available for your search"
@@ -11187,13 +11187,13 @@ msgstr ""
 
 #: content/themes/default/templates/people.tpl:180
 msgid "Respond to Your Friend Request"
-msgstr "Arkadaş isteğinize yanıt"
+msgstr "Arkadaşlık isteğinizi yanıtladı"
 
 #: content/themes/default/templates/people.tpl:191
 #: content/themes/default/templates/people.tpl:218
 #: content/themes/default/templates/_header.friend_requests.tpl:23
 msgid "No new requests"
-msgstr "Yeni isteği yok"
+msgstr "Yeni istek yok"
 
 #: content/themes/default/templates/permission.tpl:21
 msgid "Oops!"
@@ -11294,11 +11294,11 @@ msgstr ""
 
 #: content/themes/default/templates/profile.tpl:556
 msgid "Followed by"
-msgstr "Ardından:"
+msgstr "Takipçi:"
 
 #: content/themes/default/templates/profile.tpl:557
 msgid "people"
-msgstr ""
+msgstr "Kişi"
 
 #: content/themes/default/templates/profile.tpl:778
 msgid "Send a Gift"
@@ -13348,7 +13348,7 @@ msgstr "Beni hatırla"
 
 #: content/themes/default/templates/_sign_form.tpl:31
 msgid "Forgotten password?"
-msgstr ""
+msgstr "Şifremi unuttum"
 
 #: content/themes/default/templates/_sign_form.tpl:44
 msgid "login with"
@@ -13356,11 +13356,11 @@ msgstr "mantık ile"
 
 #: content/themes/default/templates/_sign_form.tpl:78
 msgid "Not registered?"
-msgstr "Kayıtlı değil?"
+msgstr "Kayıtlı değilmisiniz?,"
 
 #: content/themes/default/templates/_sign_form.tpl:78
 msgid "Create an account"
-msgstr "Hesap oluştur?"
+msgstr "Hesap oluşturun"
 
 #: content/themes/default/templates/_sign_form.tpl:262
 msgid "register with"
@@ -13368,7 +13368,7 @@ msgstr ""
 
 #: content/themes/default/templates/_sign_form.tpl:295
 msgid "Have an account?"
-msgstr ""
+msgstr "Hesabınız var mı?"
 
 #: content/themes/default/templates/_sign_form.tpl:295
 msgid "Login Now"
@@ -13608,23 +13608,23 @@ msgstr ""
 
 #: content/themes/default/templates/__feeds_post.body.tpl:324
 msgid "updated the cover photo"
-msgstr ""
+msgstr "Kapak fotoğrafı güncellendi."
 
 #: content/themes/default/templates/__feeds_post.body.tpl:327
 msgid "updated page picture"
-msgstr "güncellenen sayfa resim"
+msgstr "Sayfa resmi güncellendi"
 
 #: content/themes/default/templates/__feeds_post.body.tpl:330
 msgid "updated cover photo"
-msgstr "kapak fotoğrafını güncelledi."
+msgstr "Kapak fotoğrafı güncellendi"
 
 #: content/themes/default/templates/__feeds_post.body.tpl:333
 msgid "updated group picture"
-msgstr "onun profil resmi güncelleme"
+msgstr "Topluluk profil resmi güncellendi"
 
 #: content/themes/default/templates/__feeds_post.body.tpl:336
 msgid "updated group cover"
-msgstr "güncellendi grup kapağı"
+msgstr "Topluluk grup kapağı güncellendi"
 
 #: content/themes/default/templates/__feeds_post.body.tpl:339
 msgid "updated event cover"
@@ -13854,65 +13854,65 @@ msgstr "Admin/morderator hesapları silemezsiniz"
 #: includes/class-user.php:2331 includes/class-user.php:2764
 #: includes/class-user.php:2909
 msgid "sent you a friend request"
-msgstr ""
+msgstr "Arkadaşlık isteği gönderdi"
 
 #: includes/class-user.php:2337 includes/class-user.php:2771
 #: includes/class-user.php:2914
 #, fuzzy
 msgid "accepted your friend request"
-msgstr "Arkadaş isteğini kabul"
+msgstr "Arkadaşlık isteğini kabul etti"
 
 #: includes/class-user.php:2343 includes/class-user.php:2919
 #, fuzzy
 msgid "now following you"
-msgstr "Şimdi seni takip"
+msgstr "Şimdi seni takip etti"
 
 #: includes/class-user.php:2349 includes/class-user.php:2924
 msgid "poked you"
-msgstr ""
+msgstr "Seni dürttü"
 
 #: includes/class-user.php:2355 includes/class-user.php:2929
 msgid "Sent you a gift"
-msgstr ""
+msgstr "Hediye gönderdi"
 
 #: includes/class-user.php:2368 includes/class-user.php:2785
 #: includes/class-user.php:2941
 msgid "reacted to your post"
-msgstr ""
+msgstr "Paylaştığın bir yazıya tepki verdi"
 
 #: includes/class-user.php:2371 includes/class-user.php:2788
 #: includes/class-user.php:2944
 msgid "reacted to your photo"
-msgstr ""
+msgstr "Paylaştığın bir fotoğrafa tepki verdi"
 
 #: includes/class-user.php:2374 includes/class-user.php:2377
 #: includes/class-user.php:2791 includes/class-user.php:2794
 #: includes/class-user.php:2947 includes/class-user.php:2950
 msgid "reacted to your comment"
-msgstr ""
+msgstr "Yazdığın bir yoruma tepki verdi"
 
 #: includes/class-user.php:2380 includes/class-user.php:2383
 #: includes/class-user.php:2797 includes/class-user.php:2800
 #: includes/class-user.php:2953 includes/class-user.php:2956
 msgid "reacted to your reply"
-msgstr ""
+msgstr "Yazdığın bir cevaba tepki verdi"
 
 #: includes/class-user.php:2391 includes/class-user.php:2809
 #: includes/class-user.php:2963
 #, fuzzy
 msgid "commented on your post"
-msgstr "Yazınızı yorumladı"
+msgstr "Paylaşımına yorum yaptı"
 
 #: includes/class-user.php:2394 includes/class-user.php:2812
 #: includes/class-user.php:2966
 #, fuzzy
 msgid "commented on your photo"
-msgstr "Senin resmi için yorumladı"
+msgstr "Paylaştığın bir fotoğrafa yorum yaptı"
 
 #: includes/class-user.php:2405 includes/class-user.php:2824
 #: includes/class-user.php:2976
 msgid "replied to your comment"
-msgstr ""
+msgstr "Yazdığın bir yoruma cevap verdi"
 
 #: includes/class-user.php:2411 includes/class-user.php:2831
 #: includes/class-user.php:2981
@@ -13947,7 +13947,7 @@ msgstr ""
 #: includes/class-user.php:3020
 #, fuzzy
 msgid "visited your profile"
-msgstr "Profilinizi ziyaret"
+msgstr "Profilinizi görüntüledi"
 
 #: includes/class-user.php:2459 includes/class-user.php:2876
 #: includes/class-user.php:3025
@@ -14375,11 +14375,11 @@ msgstr ""
 #: includes/class-user.php:9805 includes/class-user.php:9892
 #, fuzzy
 msgid "You must enter a name for your group"
-msgstr "Grubunuz için bir kullanıcı adı girmeniz gerekir"
+msgstr "Topluluğunuz için bir kullanıcı adı girmeniz gerekir"
 
 #: includes/class-user.php:9808 includes/class-user.php:9895
 msgid "Group name must be at least 3 characters long. Please try another"
-msgstr ""
+msgstr "Topluluk adı minimum 3 karakterden oluşmalıdır"
 
 #: includes/class-user.php:9812 includes/class-user.php:9900
 msgid "You must enter a web address for your group"
@@ -14400,7 +14400,7 @@ msgstr ""
 
 #: includes/class-user.php:9821 includes/class-user.php:9909
 msgid "belongs to an existing group"
-msgstr "Varolan bir gruba ait"
+msgstr "Varolan bir topluluğa ait"
 
 #: includes/class-user.php:9825 includes/class-user.php:9829
 #: includes/class-user.php:9918 includes/class-user.php:9922
@@ -15896,7 +15896,7 @@ msgstr "Dosya yükleme başarılı"
 #: includes/ajax/admin/tools.php:84
 #, fuzzy
 msgid "You must enter valid number for how many groups you want to generate"
-msgstr "Grubunuz için bir kullanıcı adı girmeniz gerekir"
+msgstr "Topluluğunuz için bir topluluk adı girmeniz gerekir"
 
 #: includes/ajax/admin/tools.php:87
 #, fuzzy
