@@ -9041,7 +9041,7 @@ msgstr ""
 #: content/themes/default/templates/_sidebar.tpl:194
 #, fuzzy
 msgid "People"
-msgstr "Kişi"
+msgstr "Kişiler"
 
 #: content/themes/default/templates/ads.tpl:281
 #: content/themes/default/templates/ads.tpl:533
