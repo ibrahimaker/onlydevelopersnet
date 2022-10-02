@@ -10828,21 +10828,21 @@ msgstr ""
 #: content/themes/default/templates/offers.tpl:152
 #: content/themes/default/templates/people.tpl:56
 msgid "Distance"
-msgstr ""
+msgstr "Uzaklık"
 
 #: content/themes/default/templates/jobs.tpl:171
 #: content/themes/default/templates/market.tpl:188
 #: content/themes/default/templates/offers.tpl:160
 #: content/themes/default/templates/people.tpl:61
 msgid "ML"
-msgstr ""
+msgstr "ml"
 
 #: content/themes/default/templates/jobs.tpl:171
 #: content/themes/default/templates/market.tpl:188
 #: content/themes/default/templates/offers.tpl:160
 #: content/themes/default/templates/people.tpl:61
 msgid "KM"
-msgstr ""
+msgstr "km"
 
 #: content/themes/default/templates/jobs.tpl:177
 #: content/themes/default/templates/market.tpl:194
@@ -11166,7 +11166,7 @@ msgstr "Cinsiyet"
 #: content/themes/default/templates/people.tpl:106
 #: content/themes/default/templates/__custom_fields.tpl:12
 msgid "Any"
-msgstr ""
+msgstr "Hepsi"
 
 #: content/themes/default/templates/people.tpl:88
 msgid "Relationship"
@@ -11174,7 +11174,7 @@ msgstr ""
 
 #: content/themes/default/templates/people.tpl:104
 msgid "Online Status"
-msgstr ""
+msgstr "Online Durum"
 
 #: content/themes/default/templates/people.tpl:135
 #, fuzzy
@@ -13148,12 +13148,12 @@ msgstr ""
 #: content/themes/default/templates/_js_translator.tpl:166
 #, fuzzy
 msgid "Search for offers"
-msgstr "Site içinde arama yapın"
+msgstr "Arama Yap"
 
 #: content/themes/default/templates/_js_translator.tpl:167
 #, fuzzy
 msgid "Search for jobs"
-msgstr "Site içinde arama yapın"
+msgstr "Arama Yap"
 
 #: content/themes/default/templates/_js_translator.tpl:168
 msgid "Stop"
