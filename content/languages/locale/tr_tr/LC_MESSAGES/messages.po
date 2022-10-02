@@ -1247,7 +1247,7 @@ msgstr ""
 #: index.php:170 content/themes/default/templates/index.tpl:132
 #: content/themes/default/templates/_sidebar.tpl:122
 msgid "Saved Posts"
-msgstr "Kayıtlı Paylaşımlar"
+msgstr "Kayıtlı İçerikler"
 
 #: index.php:180 content/themes/default/templates/admin.settings.tpl:984
 #: content/themes/default/templates/index.tpl:141
@@ -1327,11 +1327,11 @@ msgstr ""
 #: people.php:44 content/themes/default/templates/people.tpl:25
 #: content/themes/default/templates/_header.friend_requests.tpl:10
 msgid "Friend Requests"
-msgstr "Arkadaşlık istekleri"
+msgstr "Arkadaşlık İstekleri"
 
 #: people.php:49 content/themes/default/templates/people.tpl:207
 msgid "Friend Requests Sent"
-msgstr "Arkadaşlık istekleri"
+msgstr "Arkadaş olarak eklediklerin"
 
 #: settings.php:27 content/themes/default/templates/settings.tpl:15
 #: content/themes/default/templates/settings.tpl:262
@@ -11151,15 +11151,15 @@ msgstr "Sayfa Oluştur"
 
 #: content/themes/default/templates/people.tpl:33
 msgid "Sent Requests"
-msgstr ""
+msgstr "İstek Gönderdiklerin"
 
 #: content/themes/default/templates/people.tpl:70
 msgid "Keyword"
-msgstr ""
+msgstr "Anahtar Kelime"
 
 #: content/themes/default/templates/people.tpl:76
 msgid "Gender"
-msgstr ""
+msgstr "Cinsiyet"
 
 #: content/themes/default/templates/people.tpl:78
 #: content/themes/default/templates/people.tpl:90
@@ -11179,7 +11179,7 @@ msgstr ""
 #: content/themes/default/templates/people.tpl:135
 #, fuzzy
 msgid "People You May Know"
-msgstr "Tanıyor olabileceğiniz kişiler"
+msgstr "Tanıyor olabileceğin kişiler"
 
 #: content/themes/default/templates/people.tpl:173
 msgid "No people available for your search"
@@ -11187,7 +11187,7 @@ msgstr ""
 
 #: content/themes/default/templates/people.tpl:180
 msgid "Respond to Your Friend Request"
-msgstr "Arkadaşlık isteğinizi yanıtladı"
+msgstr "Arkadaş olarak ekleyenler"
 
 #: content/themes/default/templates/people.tpl:191
 #: content/themes/default/templates/people.tpl:218
@@ -13328,7 +13328,7 @@ msgstr "Favorilerim"
 #: content/themes/default/templates/_sidebar.tpl:55
 #: content/themes/default/templates/_sidebar.tpl:60
 msgid "News Feed"
-msgstr "Paylaşımlar"
+msgstr "Haber Akışı"
 
 #: content/themes/default/templates/_sidebar.tpl:113
 msgid "My Funding"
