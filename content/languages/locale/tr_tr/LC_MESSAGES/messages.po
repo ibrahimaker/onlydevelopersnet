@@ -3954,7 +3954,7 @@ msgstr "Konum (Adres)"
 #: content/themes/default/templates/event.tpl:692
 #: content/themes/default/templates/group.tpl:715
 msgid "Select Privacy"
-msgstr ""
+msgstr "Gizlilik Seviyesi Seç"
 
 #: content/themes/default/templates/admin.events.tpl:273
 #: content/themes/default/templates/admin.groups.tpl:232
@@ -4154,7 +4154,7 @@ msgstr ""
 #: content/themes/default/templates/ajax.group.publisher.tpl:12
 #: content/themes/default/templates/group.tpl:699
 msgid "Name Your Group"
-msgstr ""
+msgstr "Topluluk Adı"
 
 #: content/themes/default/templates/admin.groups.tpl:199
 #: content/themes/default/templates/admin.static.tpl:75
@@ -9328,12 +9328,12 @@ msgstr ""
 
 #: content/themes/default/templates/ajax.group.publisher.tpl:3
 msgid "Create New Group"
-msgstr ""
+msgstr "Yeni Topluluk Oluştur"
 
 #: content/themes/default/templates/ajax.group.publisher.tpl:16
 #: content/themes/default/templates/group.tpl:703
 msgid "Group Username"
-msgstr ""
+msgstr "Topluluk Kullanıcı Adı"
 
 #: content/themes/default/templates/ajax.group.publisher.tpl:24
 #: content/themes/default/templates/ajax.page.publisher.tpl:24
