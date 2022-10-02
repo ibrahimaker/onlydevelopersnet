@@ -3924,7 +3924,7 @@ msgstr ""
 #: content/themes/default/templates/ajax.event.publisher.tpl:12
 #: content/themes/default/templates/event.tpl:666
 msgid "Name Your Event"
-msgstr ""
+msgstr "Etkinlik Adı"
 
 #: content/themes/default/templates/admin.events.tpl:214
 #: content/themes/default/templates/admin.pages.tpl:302
@@ -10311,19 +10311,19 @@ msgstr ""
 
 #: content/themes/default/templates/event.tpl:213
 msgid "Public Event"
-msgstr ""
+msgstr "Herkese Açık Etkinlik"
 
 #: content/themes/default/templates/event.tpl:216
 msgid "Closed Event"
-msgstr ""
+msgstr "Kapalı Etkinlik"
 
 #: content/themes/default/templates/event.tpl:219
 msgid "Secret Event"
-msgstr ""
+msgstr "Gizli Etkinlik"
 
 #: content/themes/default/templates/event.tpl:235
 msgid "Hosted By"
-msgstr ""
+msgstr "Etkinlik Sahibi"
 
 #: content/themes/default/templates/event.tpl:315
 #: content/themes/default/templates/group.tpl:287
