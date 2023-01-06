@@ -392,7 +392,7 @@ function reserved_username($username)
  */
 function valid_name($name)
 {
-  if (!ctype_graph($name) || preg_match('/[[:punct:]]/i', $name) || valid_url($name)) {
+  if (preg_match('/[[:punct:]]/i', $name) || valid_url($name)) {
     return false;
   }
   return true;
